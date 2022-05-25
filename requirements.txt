@@ -218,7 +218,7 @@ pydot==1.4.2
 pyerfa @ file:///tmp/build/80754af9/pyerfa_1621560191196/work
 pyflakes @ file:///tmp/build/80754af9/pyflakes_1617200973297/work
 Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
-PyJWT==2.1.0
+PyJWT==2.4.0
 pylint @ file:///tmp/build/80754af9/pylint_1617135828964/work
 pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
