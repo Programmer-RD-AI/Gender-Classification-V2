@@ -163,7 +163,7 @@ nose @ file:///tmp/build/80754af9/nose_1606773131901/work
 notebook @ file:///tmp/build/80754af9/notebook_1621523661196/work
 numba @ file:///tmp/build/80754af9/numba_1616774249101/work
 numexpr @ file:///tmp/build/80754af9/numexpr_1614798504508/work
-numpy==1.20.3
+numpy==1.22.0
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 nvidia-ml-py3==7.352.0
 oauthlib==3.1.0
